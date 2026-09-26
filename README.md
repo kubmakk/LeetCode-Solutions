@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kubmakk/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/kubmakk/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kubmakk/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kubmakk/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kubmakk/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/kubmakk/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kubmakk/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kubmakk/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
